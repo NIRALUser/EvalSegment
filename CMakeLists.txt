@@ -1,0 +1,3 @@
+PROJECT(EvalSegment)
+SUBDIRS(EvaluateSegmentationResult)
+SUBDIRS(GenerateResultsTable)
